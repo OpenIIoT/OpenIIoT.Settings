@@ -4,7 +4,7 @@
       <Value>json</Value>
       <Value>schemaform</Value>
       <Value>stateful</Value>
-      <Value>Symbiote</Value>
+      <Value>OpenIIoT</Value>
       <Value>Subscribable</Value>
     </CollectionProperty>
     <IntegerProperty Name="MaxViolationCount">5000</IntegerProperty>
